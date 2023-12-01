@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Chrystian 😁
+## Bem-vindo(a) ao meu perfil
 ### Me chamo Chrystian, mas podem me podem me chamar de Chrys 😁
  <div>
    <a href="https://github.com/ChrystianMyke">
