@@ -1,5 +1,9 @@
-## Bem-vindo(a) ao meu perfil
-### Me chamo Chrystian, mas podem me podem me chamar de Chrys 😁
+# Chrystian Myke
+
+**`Aprendendo Programação`**
+
+Me chamo Chrystian Myke Alves Dias, tenho 21 anos e sou natural de Minas Gerais. Concluí o ensino médio no CTPM(Colégio Militar de Minas Gerais). Atualmente, estou cursando Engenharia de Software na Unopar.
+
  <div>
    <a href="https://github.com/ChrystianMyke">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrystianMyke&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
