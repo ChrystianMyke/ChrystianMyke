@@ -2,7 +2,7 @@
 
 **`Aprendendo Programação`**
 
-Me chamo Chrystian Myke Alves Dias, tenho 21 anos e sou natural de Minas Gerais. Concluí o ensino médio no CTPM(Colégio Militar de Minas Gerais). Atualmente, estou cursando Engenharia de Software na Unopar.
+Me chamo Chrystian Myke Alves Dias, tenho 21 anos e sou natural de Minas Gerais. Concluí o ensino médio no CTPM(Colégio Militar de Minas Gerais). Atualmente, estou cursando Engenharia de Software na Uninter.
 <div> 
   <a href="https://instagram.com/_chrystian_13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/Thorfinn死" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
