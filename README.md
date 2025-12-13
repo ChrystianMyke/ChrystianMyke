@@ -1,67 +1,154 @@
-# Chrystian Myke
-*`Aprendendo Programação`*
 
-## 👨‍💻 Sobre mim
+<div align="center">
 
-Me chamo Chrystian Myke Alves Dias, tenho 22 anos e sou natural de Minas Gerais. Atualmente, estou cursando Engenharia de Software na Uninter. 
+## 🖥️ C:\Users\Chrystian> SYSTEM.PROFILE.EXE
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║                    CHRYSTIAN MYKE - PROFILE v1.0                  ║
+║                   [Software Engineering Student]                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
-Sou entusiasta de tecnologia, apaixonado por programação e profundamente interessado em segurança da informação. Estou constantemente explorando novas tecnologias e buscando aprimorar minhas habilidades em desenvolvimento de software.
-
-## 📫 Contato
-
-<div> 
-  <a href="https://instagram.com/_chrystian_13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/<Chrys>" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:miyamoto13k@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/chrystian-myke-388b69282/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
----
-
-## 🤖 Linguagens e Tecnologias
-
-<div style="display: inline_block"><br>
-  <img align="center" 
-  alt="Js" 
-  height="30" 
-  width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" 
-  alt="HTML" 
-  height="30" 
-  width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" 
-  alt="CSS" 
-  height="30" 
-  width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" 
-  alt="Python" 
-  height="30" 
-  width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" 
-  alt="Java" 
-  height="30" 
-  width="40" 
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=C%3A%5CUsers%5CChrystian%3E+whoami;Name%3A+Chrystian+Myke+Alves+Dias;Age%3A+22+%7C+Location%3A+Minas+Gerais%2C+BR;Education%3A+Software+Engineering+%40+Uninter;Passion%3A+Programming+%2B+Cybersecurity;Status%3A+%5BONLINE%5D+Learning...Building...Growing..." alt="Typing SVG" />
 </div>
 
 <br>
 
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/f2/9f/7a/f29f7af6b35e675f2902acd33c7c6e17.jpg" width="300px">
+</div>
+
+<br>
+
+<div align="center">
+```
+┌─[chrystian@localhost]─[~/profile]
+└──╼ $ cat system_info.txt
+```
+
+</div>
+
+<div align="center">
+
+| 📋 ATTRIBUTE | 💾 VALUE |
+|:---:|:---:|
+| Name | Chrystian Myke Alves Dias |
+| Age | 22 years old |
+| Location | Minas Gerais, Brasil 🇧🇷 |
+| Education | Software Engineering @ Uninter |
+| Focus | Web Development & Cybersecurity |
+| Status | ACTIVE - Building the future |
+
+</div>
+
 ---
 
-## 📊 Estatísticas
+<div align="center">
 
-<div>
-  <img align="left"
-    alt="GitHub Stats"
-    height="200" 
-    style="padding-right: 10px"
-    src="https://github-readme-stats.vercel.app/api?username=ChrystianMyke&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrystianMyke&layout=compact&langs_count=6&theme=tokyonight&custom_title=Tecnologias&locale=pt-br"/>
+## 🖥️ C:\TECH_STACK> dir /s
+```python
+def my_tech_stack():
+    return {
+        "languages": ["JavaScript", "TypeScript", "Python"],
+        "web": ["HTML5", "CSS3"],
+        "database": ["MySQL"],
+        "tools": ["Git", "GitHub"],
+        "learning": ["Cybersecurity", "Web Security", "Backend Dev"],
+        "status": "Always updating..."
+    }
+```
+
+</div>
+
+<div align="center">
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg" />
+  <img width="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+</div>
+
+---
+
+<div align="center">
+
+## 📊 C:\GITHUB_STATS> analyze.exe --full
+```
+┌─[chrystian@localhost]─[~/stats]
+└──╼ $ ./fetch_github_stats.sh --user=ChrystianMyke
+```
+
+</div>
+
+<details open>
+<summary align="center"><b>💻 CLICK TO EXPAND TERMINAL STATS</b></summary>
+<br>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChrystianMyke&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff00&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrystianMyke&layout=compact&theme=chartreuse-dark&border_color=00ff00&title_color=00ff00&text_color=ffffff&bg_color=000000"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrystianMyke&theme=black-ice&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&background=000000&border=00ff00"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChrystianMyke&theme=github_dark"/>
+</div>
+
+</details>
+
+---
+
+<div align="center">
+
+## 📡 C:\CONTACT> connect.exe --all
+```
+┌─[system]─[~/contact]
+└──╼ $ Available connection protocols:
+```
+
+</div>
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00ff00)](mailto:miyamoto13k@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00)](https://www.linkedin.com/in/chrystian-myke-388b69282/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff00)](https://www.instagram.com/_chrystian_13)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=00ff00)](https://wa.me/5537998226233)
+  
+</div>
+
+---
+
+<div align="center">
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  "The only way to do great work is to love what you do."         ║
+║                                                    - Steve Jobs    ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://komarev.com/ghpvc/?username=ChrystianMyke&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS"/>
+```
+┌─[system]─[~/session]
+└──╼ $ logout
+[✓] Session ended successfully
+[✓] See you soon, Chrystian!
+```
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,100:001a00&section=footer"/>
 </div>
