@@ -35,6 +35,11 @@ Me chamo Chrystian Myke Alves Dias, tenho 22 anos e sou natural de Minas Gerais.
  height="30" 
  width="40" 
  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" 
+ alt="Java" 
+ height="30" 
+ width="40" 
+ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 <br>
 
