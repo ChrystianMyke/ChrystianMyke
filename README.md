@@ -52,7 +52,7 @@
 ```python
 def my_tech_stack():
     return {
-        "languages": ["JavaScript", "TypeScript", "Python"],
+        "languages": ["JavaScript", "TypeScript", "Python", "Java"],
         "web": ["HTML5", "CSS3"],
         "database": ["MySQL"],
         "tools": ["Git", "GitHub"],
