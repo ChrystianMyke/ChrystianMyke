@@ -54,7 +54,7 @@ def my_tech_stack():
     return {
         "languages": ["JavaScript", "TypeScript", "Python", "Java"],
         "web": ["HTML5", "CSS3"],
-        "database": ["MySQL"],
+        "database": ["MySQL", "MongoDB", "MariaDB"],
         "tools": ["Git", "GitHub"],
         "learning": ["Cybersecurity", "Web Security", "Backend Dev"],
         "status": "Always updating..."
