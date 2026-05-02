@@ -10,12 +10,8 @@
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                    CHRYSTIAN MYKE - PROFILE v1.0                  ║
-║                   [Software Engineering Student]                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
+## Chrystian Myke | Profile v2.0
+## [Software Engineering Student]
 
 </div>
 
