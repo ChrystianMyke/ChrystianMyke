@@ -5,12 +5,12 @@
 <div align="center">
 
 ## 🔴 C:\Users\Chrystian> SYSTEM.PROFILE.EXE
-╔═══════════════════════════════════════════════════════════════════╗
-║                    CHRYSTIAN MYKE - PROFILE                       ║
-║                   [Software Engineering Student]                  ║
-╚═══════════════════════════════════════════════════════════════════╝
 
 </div>
+╔═══════════════════════════════════════════════════════════════════╗
+║                    CHRYSTIAN MYKE - PROFILE                        ║
+║                   [Software Engineering Student]                   ║
+╚═══════════════════════════════════════════════════════════════════╝
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=C%3A%5CUsers%5CChrystian%3E+whoami;Name%3A+Chrystian+Myke+Alves+Dias;Age%3A+22+%7C+Location%3A+Minas+Gerais%2C+BR;Education%3A+Software+Engineering+%40+Uninter;Passion%3A+Programming+%2B+Cybersecurity;Status%3A+%5BONLINE%5D+Learning...Building...Growing..." alt="Typing SVG" />
